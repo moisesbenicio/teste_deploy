@@ -7,7 +7,9 @@ function App() {
   return (
     <>
       <Header />
-      Conteúdo
+      <h1 class="text-3xl font-bold underline">
+    Conteúdo
+  </h1>
       <Footer />
     </>
   )
